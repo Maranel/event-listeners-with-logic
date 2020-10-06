@@ -1,0 +1,10 @@
+button{
+    width: 200px;
+    height: 200px;
+}
+.input{
+    margin: 10px;
+    border: solid 2px orange;
+    width: 300px;
+    padding: 5px;;
+}
